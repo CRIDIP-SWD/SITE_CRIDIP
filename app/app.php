@@ -20,7 +20,7 @@ class app
     public function __construct()
     {
         mysql_connect("localhost", "root", "1992maxime")or die(mysql_error());
-        mysql_select_db("gameshop")or die(mysql_error());
+        mysql_select_db("cridip")or die(mysql_error());
     }
 }
 
@@ -34,10 +34,10 @@ class app
 class constante extends app{
 
     const HTTP       = "http://";
-    const URL        = "vps221243.ovh.net/gameshop/";
+    const URL        = "vps221243.ovh.net/site_cridip/";
     const ASSETS     = "assets/";
-    const NOM_SITE   = "Gameshop";
-    const SOURCES    = "ns342142.ip-5-196-76.eu/sources/gameshop/";
+    const NOM_SITE   = "SAS CRIDIP";
+    const SOURCES    = "ns342142.ip-5-196-76.eu/sources/cridip/";
 
     /**
      * @param $dos array Permet de parser sous forme string le tableau array=$dos
