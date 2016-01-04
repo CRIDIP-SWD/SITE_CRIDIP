@@ -1,16 +1,9 @@
 <?php
-require "app/Autoloader.php";
-\App\Autoloader::register();
+require "app/autoloader.php";
+\App\autoloader::register();
 
-if(isset($_GET['view']))
-{
-    $view = $_GET['view'];
-}else{
-    $view = 'index';
-}
+use App\app;
+use App\constante;
 
-ob_start();
-if($view === 'index'){require "view/index.php";}
-
-$content = ob_get_clean();
-require "view/default.php";
+$app = new app();
+$constante = new constante();
