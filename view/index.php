@@ -2,7 +2,7 @@
 
     <div class="swiper-container swiper-parent">
         <div class="swiper-wrapper">
-            <div class="swiper-slide dark" style="background-image: url('<?= $constante->getUrl(array('images/'), true, false) ;?>slider/swiper/1.jpg');">
+            <div class="swiper-slide dark" style="background-image: url('<?= $constante->getUrl(array(''), false, true) ;?>background/sky.png');">
                 <div class="container clearfix">
                     <div class="slider-caption slider-caption-center">
                         <h2 data-caption-animate="fadeInUp">BONNE ANNEE 2016</h2>
