@@ -161,7 +161,7 @@
                 </div>
             </div>
         </div>
-        <div class="promo promo-dark promo-full promo-uppercase bottommargin">
+        <div class="promo promo-dark promo-full promo-uppercase bottommargin footer-stick">
             <div class="container clearfix">
                 <h3>Call us today at <span>+91.22.57412541</span> or Email us at <span>support@canvas.com</span></h3>
                 <span>We strive to provide Our Customers with Top Notch Support to make their Theme Experience Wonderful</span>
