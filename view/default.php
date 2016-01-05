@@ -61,11 +61,11 @@
 
                     <ul>
                         <li class="current"><a href="index.php?view=index"><div>Accueil</div></a></li>
-                        <li><a href="#"><div>Evènementielle</div></a></li>
-                        <li><a href="#"><div>Conseil</div></a></li>
-                        <li><a href="#"><div>Coaching</div></a></li>
-                        <li><a href="#"><div>Developpement</div></a></li>
-                        <li><a href="#"><div>Contact</div></a></li>
+                        <li><a href="index.php?view=event"><div>Evènementiel</div></a></li>
+                        <li><a href="index.php?view=conseil"><div>Conseil</div></a></li>
+                        <li><a href="index.php?view=coach"><div>Coaching</div></a></li>
+                        <li><a href="index.php?view=dev"><div>Developpement</div></a></li>
+                        <li><a href="index.php?view=contact"><div>Contact</div></a></li>
                     </ul>
 
                     <!-- Top Cart
@@ -129,8 +129,9 @@
                 <div class="swiper-slide dark" style="background-image: url('images/slider/swiper/1.jpg');">
                     <div class="container clearfix">
                         <div class="slider-caption slider-caption-center">
-                            <h2 data-caption-animate="fadeInUp">Welcome to Canvas</h2>
-                            <p data-caption-animate="fadeInUp" data-caption-delay="200">Create just what you need for your Perfect Website. Choose from a wide range of Elements &amp; simply put them on your own Canvas.</p>
+                            <h2 data-caption-animate="fadeInUp">BONNE ANNEE 2016</h2>
+                            <p data-caption-animate="fadeInUp" data-caption-delay="200">Toute l'équipe de CRIDIP vous souhaite une bonne année 2016.</p>
+                            <p data-caption-animate="fadeInUp" data-caption-delay="200">La ROADMAP 2016 est de sortie.</p>
                         </div>
                     </div>
                 </div>
