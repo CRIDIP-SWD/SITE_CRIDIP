@@ -28,7 +28,7 @@
 
     <!-- Document Title
     ============================================= -->
-    <title>Canvas | The Multi-Purpose HTML5 Template</title>
+    <title><?= \App\constante::NOM_SITE; ?></title>
 
 </head>
 
@@ -154,7 +154,7 @@
 
                             <div class="col-md-3 col-xs-6 bottommargin-sm widget_links">
                                 <ul>
-                                    <li><a href="#">Evenementielle</a></li>
+                                    <li><a href="#">Evenementiel</a></li>
                                     <li><a href="#">Contact</a></li>
                                 </ul>
                             </div>
