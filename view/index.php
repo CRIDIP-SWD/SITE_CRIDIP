@@ -117,7 +117,7 @@
         </div>
         <div class="container clearfix">
             <div class="fancy-title title-dotted-border title-center">
-                <h1>Centered Title with <span>dotted</span> border</h1>
+                <h1>Découvrez toutes les <span>offres</span> et <span>services</span> fournis par CRIDIP</h1>
             </div>
         </div>
 
