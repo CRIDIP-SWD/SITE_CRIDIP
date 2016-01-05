@@ -128,9 +128,9 @@
                 <div class="col-md-4">
                     <div class="feature-box fbox-effect">
                         <div class="fbox-icon">
-                            <a href="index.php?view=event"><i class="icon-circle-arrow-right i-alt"></i></a>
+                            <a href="http://swd.cridip.com"><i class="icon-weibo i-alt"></i></a>
                         </div>
-                        <h3>Séminaire</h3>
+                        <h3>Web</h3>
                         <p>Nous organisons des séminaires sur toutes la france, suivant un protocole très strict, de la préparation à la réalisation, vous n'avez plus qu'à en profiter !</p>
                     </div>
                 </div>
