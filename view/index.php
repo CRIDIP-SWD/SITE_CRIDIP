@@ -95,8 +95,7 @@
 
 </section>
 
-<!-- Content
-============================================= -->
+<!-- Content-->
 <section id="content">
 
     <div class="content-wrap">
@@ -163,5 +162,6 @@
         </div>
     </div>
 
-</section><!-- #content end -->
+</section>
+<!-- #content end -->
 

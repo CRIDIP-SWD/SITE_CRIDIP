@@ -109,3 +109,27 @@
 
 </section>
 
+<!-- Content-->
+<section id="content">
+
+    <div class="content-wrap">
+        <div class="promo promo-full promo-border header-stick bottommargin-lg">
+            <div class="container clearfix">
+                <h3>Appelez-nous aujourd'hui au <span>0899 492 648</span> <br>où écrivez-nous à <span>contact@cridip.com</span></h3>
+                <span>Nous nous efforçons de forunir à nos clients tout notre soutien pour mener leurs projets à bien.</span>
+                <a class="button button-reveal button-xlarge button-rounded tright" href="index.php?view=contact"><i class="icon-angle-right"></i><span>Contactez-nous</span></a>
+            </div>
+        </div>
+
+        <div class="promo promo-dark promo-full promo-uppercase bottommargin footer-stick">
+            <div class="container clearfix">
+                <h3>Appelez-nous aujourd'hui au <span>0899 492 648</span> <br>où écrivez-nous à <span>contact@cridip.com</span></h3>
+                <span>Nous nous efforçons de forunir à nos clients tout notre soutien pour mener leurs projets à bien.</span>
+                <a class="button button-reveal button-xlarge button-rounded tright" href="index.php?view=contact"><i class="icon-angle-right"></i><span>Contactez-nous</span></a>
+            </div>
+        </div>
+    </div>
+
+</section>
+<!-- #content end -->
+
