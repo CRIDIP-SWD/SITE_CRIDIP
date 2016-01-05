@@ -135,29 +135,6 @@
                         </div>
                     </div>
                 </div>
-                <div class="swiper-slide dark">
-                    <div class="container clearfix">
-                        <div class="slider-caption slider-caption-center">
-                            <h2 data-caption-animate="fadeInUp">Beautifully Flexible</h2>
-                            <p data-caption-animate="fadeInUp" data-caption-delay="200">Looks beautiful &amp; ultra-sharp on Retina Screen Displays. Powerful Layout with Responsive functionality that can be adapted to any screen size.</p>
-                        </div>
-                    </div>
-                    <div class="video-wrap">
-                        <video id="slide-video" poster="images/videos/explore.jpg" preload="auto" loop autoplay muted>
-                            <source src='images/videos/explore.webm' type='video/webm' />
-                            <source src='images/videos/explore.mp4' type='video/mp4' />
-                        </video>
-                        <div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div>
-                    </div>
-                </div>
-                <div class="swiper-slide" style="background-image: url('images/slider/swiper/3.jpg'); background-position: center top;">
-                    <div class="container clearfix">
-                        <div class="slider-caption">
-                            <h2 data-caption-animate="fadeInUp">Great Performance</h2>
-                            <p data-caption-animate="fadeInUp" data-caption-delay="200">You'll be surprised to see the Final Results of your Creation &amp; would crave for more.</p>
-                        </div>
-                    </div>
-                </div>
             </div>
             <div id="slider-arrow-left"><i class="icon-angle-left"></i></div>
             <div id="slider-arrow-right"><i class="icon-angle-right"></i></div>
@@ -261,8 +238,8 @@
                     <div class="col-lg-7">
 
                         <div style="position: relative; margin-bottom: -60px;" class="ohidden" data-height-lg="426" data-height-md="567" data-height-sm="470" data-height-xs="287" data-height-xxs="183">
-                            <img src="images/services/main-fbrowser.png" style="position: absolute; top: 0; left: 0;" data-animate="fadeInUp" data-delay="100" alt="Chrome">
-                            <img src="images/services/main-fmobile.png" style="position: absolute; top: 0; left: 0;" data-animate="fadeInUp" data-delay="400" alt="iPad">
+                            <img src="<?= $constante->getUrl(array('images', 'services/'), true, false) ;?>main-fbrowser.png" style="position: absolute; top: 0; left: 0;" data-animate="fadeInUp" data-delay="100" alt="Chrome">
+                            <img src="<?= $constante->getUrl(array('images', 'services/'), true, false) ;?>main-fmobile.png" style="position: absolute; top: 0; left: 0;" data-animate="fadeInUp" data-delay="400" alt="iPad">
                         </div>
 
                     </div>
