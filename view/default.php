@@ -124,8 +124,8 @@
 
     <?= $content; ?>
     <!-- Footer
-    ============================================= -->
-    <footer id="footer" class="dark">
+		============================================= -->
+    <footer id="footer" class="dark" style="background: url('<?= $constante->getUrl(array('images/'), true, false) ;?>footer-bg.jpg') repeat; background-size: cover;">
 
         <div class="container">
 
@@ -135,88 +135,56 @@
 
                 <div class="col_two_third">
 
-                    <div class="col_one_third">
+                    <div class="widget clearfix">
 
-                        <div class="widget clearfix">
+                        <img src="images/footer-widget-logo.png" alt="" class="alignleft" style="margin-top: 8px; padding-right: 18px; border-right: 1px solid #4A4A4A;">
 
-                            <img src="images/footer-widget-logo.png" alt="" class="footer-logo">
+                        <p>We believe in <strong>Simple</strong>, <strong>Creative</strong> &amp; <strong>Flexible</strong> Design Standards with a Retina &amp; Responsive Approach. Browse the amazing Features this template offers.</p>
 
-                            <p>We believe in <strong>Simple</strong>, <strong>Creative</strong> &amp; <strong>Flexible</strong> Design Standards.</p>
+                        <div class="line" style="margin: 30px 0;"></div>
 
-                            <div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
-                                <address>
-                                    <strong>Headquarters:</strong><br>
-                                    795 Folsom Ave, Suite 600<br>
-                                    San Francisco, CA 94107<br>
-                                </address>
-                                <abbr title="Phone Number"><strong>Phone:</strong></abbr> (91) 8547 632521<br>
-                                <abbr title="Fax"><strong>Fax:</strong></abbr> (91) 11 4752 1433<br>
-                                <abbr title="Email Address"><strong>Email:</strong></abbr> info@canvas.com
+                        <div class="row">
+
+                            <div class="col-md-3 col-xs-6 bottommargin-sm widget_links">
+                                <ul>
+                                    <li><a href="#">Home</a></li>
+                                    <li><a href="#">About</a></li>
+                                    <li><a href="#">FAQs</a></li>
+                                    <li><a href="#">Support</a></li>
+                                    <li><a href="#">Contact</a></li>
+                                </ul>
                             </div>
 
-                        </div>
-
-                    </div>
-
-                    <div class="col_one_third">
-
-                        <div class="widget widget_links clearfix">
-
-                            <h4>Blogroll</h4>
-
-                            <ul>
-                                <li><a href="http://codex.wordpress.org/">Documentation</a></li>
-                                <li><a href="http://wordpress.org/support/forum/requests-and-feedback">Feedback</a></li>
-                                <li><a href="http://wordpress.org/extend/plugins/">Plugins</a></li>
-                                <li><a href="http://wordpress.org/support/">Support Forums</a></li>
-                                <li><a href="http://wordpress.org/extend/themes/">Themes</a></li>
-                                <li><a href="http://wordpress.org/news/">WordPress Blog</a></li>
-                                <li><a href="http://planet.wordpress.org/">WordPress Planet</a></li>
-                            </ul>
-
-                        </div>
-
-                    </div>
-
-                    <div class="col_one_third col_last">
-
-                        <div class="widget clearfix">
-                            <h4>Recent Posts</h4>
-
-                            <div id="post-list-footer">
-                                <div class="spost clearfix">
-                                    <div class="entry-c">
-                                        <div class="entry-title">
-                                            <h4><a href="#">Lorem ipsum dolor sit amet, consectetur</a></h4>
-                                        </div>
-                                        <ul class="entry-meta">
-                                            <li>10th July 2014</li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-                                <div class="spost clearfix">
-                                    <div class="entry-c">
-                                        <div class="entry-title">
-                                            <h4><a href="#">Elit Assumenda vel amet dolorum quasi</a></h4>
-                                        </div>
-                                        <ul class="entry-meta">
-                                            <li>10th July 2014</li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-                                <div class="spost clearfix">
-                                    <div class="entry-c">
-                                        <div class="entry-title">
-                                            <h4><a href="#">Debitis nihil placeat, illum est nisi</a></h4>
-                                        </div>
-                                        <ul class="entry-meta">
-                                            <li>10th July 2014</li>
-                                        </ul>
-                                    </div>
-                                </div>
+                            <div class="col-md-3 col-xs-6 bottommargin-sm widget_links">
+                                <ul>
+                                    <li><a href="#">Shop</a></li>
+                                    <li><a href="#">Portfolio</a></li>
+                                    <li><a href="#">Blog</a></li>
+                                    <li><a href="#">Events</a></li>
+                                    <li><a href="#">Forums</a></li>
+                                </ul>
                             </div>
+
+                            <div class="col-md-3 col-xs-6 bottommargin-sm widget_links">
+                                <ul>
+                                    <li><a href="#">Corporate</a></li>
+                                    <li><a href="#">Agency</a></li>
+                                    <li><a href="#">eCommerce</a></li>
+                                    <li><a href="#">Personal</a></li>
+                                    <li><a href="#">One Page</a></li>
+                                </ul>
+                            </div>
+
+                            <div class="col-md-3 col-xs-6 bottommargin-sm widget_links">
+                                <ul>
+                                    <li><a href="#">Restaurant</a></li>
+                                    <li><a href="#">Wedding</a></li>
+                                    <li><a href="#">App Showcase</a></li>
+                                    <li><a href="#">Magazine</a></li>
+                                    <li><a href="#">Landing Page</a></li>
+                                </ul>
+                            </div>
+
                         </div>
 
                     </div>
@@ -230,12 +198,12 @@
                         <div class="row">
 
                             <div class="col-md-6 bottommargin-sm">
-                                <div class="counter counter-small"><span data-from="50" data-to="15065421" data-refresh-interval="80" data-speed="3000" data-comma="true"></span></div>
+                                <div class="counter counter-small" style="color: #35BBAA;"><span data-from="50" data-to="15065421" data-refresh-interval="80" data-speed="3000" data-comma="true"></span></div>
                                 <h5 class="nobottommargin">Total Downloads</h5>
                             </div>
 
                             <div class="col-md-6 bottommargin-sm">
-                                <div class="counter counter-small"><span data-from="100" data-to="18465" data-refresh-interval="50" data-speed="2000" data-comma="true"></span></div>
+                                <div class="counter counter-small" style="color: #2CAACA;"><span data-from="100" data-to="18465" data-refresh-interval="50" data-speed="2000" data-comma="true"></span></div>
                                 <h5 class="nobottommargin">Clients</h5>
                             </div>
 
@@ -256,16 +224,16 @@
                             </div>
                         </form>
                         <script type="text/javascript">
-                            jQuery("#widget-subscribe-form").validate({
+                            $("#widget-subscribe-form").validate({
                                 submitHandler: function(form) {
-                                    jQuery(form).find('.input-group-addon').find('.icon-email2').removeClass('icon-email2').addClass('icon-line-loader icon-spin');
-                                    jQuery(form).ajaxSubmit({
+                                    $(form).find('.input-group-addon').find('.icon-email2').removeClass('icon-email2').addClass('icon-line-loader icon-spin');
+                                    $(form).ajaxSubmit({
                                         target: '#widget-subscribe-form-result',
                                         success: function() {
-                                            jQuery(form).find('.input-group-addon').find('.icon-line-loader').removeClass('icon-line-loader icon-spin').addClass('icon-email2');
-                                            jQuery('#widget-subscribe-form').find('.form-control').val('');
-                                            jQuery('#widget-subscribe-form-result').attr('data-notify-msg', jQuery('#widget-subscribe-form-result').html()).html('');
-                                            SEMICOLON.widget.notifications(jQuery('#widget-subscribe-form-result'));
+                                            $(form).find('.input-group-addon').find('.icon-line-loader').removeClass('icon-line-loader icon-spin').addClass('icon-email2');
+                                            $('#widget-subscribe-form').find('.form-control').val('');
+                                            $('#widget-subscribe-form-result').attr('data-notify-msg', $('#widget-subscribe-form-result').html()).html('');
+                                            SEMICOLON.widget.notifications($('#widget-subscribe-form-result'));
                                         }
                                     });
                                 }
@@ -309,56 +277,54 @@
             <div class="container clearfix">
 
                 <div class="col_half">
-                    Copyrights &copy; 2014 All Rights Reserved by Canvas Inc.<br>
-                    <div class="copyright-links"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div>
+                    <div class="copyrights-menu copyright-links clearfix">
+                        <a href="#">Home</a>/<a href="#">About</a>/<a href="#">Features</a>/<a href="#">Portfolio</a>/<a href="#">FAQs</a>/<a href="#">Contact</a>
+                    </div>
+                    Copyrights &copy; 2014 All Rights Reserved by Canvas Inc.
                 </div>
 
                 <div class="col_half col_last tright">
                     <div class="fright clearfix">
-                        <a href="#" class="social-icon si-small si-borderless si-facebook">
+                        <a href="#" class="social-icon si-small si-borderless nobottommargin si-facebook">
                             <i class="icon-facebook"></i>
                             <i class="icon-facebook"></i>
                         </a>
 
-                        <a href="#" class="social-icon si-small si-borderless si-twitter">
+                        <a href="#" class="social-icon si-small si-borderless nobottommargin si-twitter">
                             <i class="icon-twitter"></i>
                             <i class="icon-twitter"></i>
                         </a>
 
-                        <a href="#" class="social-icon si-small si-borderless si-gplus">
+                        <a href="#" class="social-icon si-small si-borderless nobottommargin si-gplus">
                             <i class="icon-gplus"></i>
                             <i class="icon-gplus"></i>
                         </a>
 
-                        <a href="#" class="social-icon si-small si-borderless si-pinterest">
+                        <a href="#" class="social-icon si-small si-borderless nobottommargin si-pinterest">
                             <i class="icon-pinterest"></i>
                             <i class="icon-pinterest"></i>
                         </a>
 
-                        <a href="#" class="social-icon si-small si-borderless si-vimeo">
+                        <a href="#" class="social-icon si-small si-borderless nobottommargin si-vimeo">
                             <i class="icon-vimeo"></i>
                             <i class="icon-vimeo"></i>
                         </a>
 
-                        <a href="#" class="social-icon si-small si-borderless si-github">
+                        <a href="#" class="social-icon si-small si-borderless nobottommargin si-github">
                             <i class="icon-github"></i>
                             <i class="icon-github"></i>
                         </a>
 
-                        <a href="#" class="social-icon si-small si-borderless si-yahoo">
+                        <a href="#" class="social-icon si-small si-borderless nobottommargin si-yahoo">
                             <i class="icon-yahoo"></i>
                             <i class="icon-yahoo"></i>
                         </a>
 
-                        <a href="#" class="social-icon si-small si-borderless si-linkedin">
+                        <a href="#" class="social-icon si-small si-borderless nobottommargin si-linkedin">
                             <i class="icon-linkedin"></i>
                             <i class="icon-linkedin"></i>
                         </a>
                     </div>
-
-                    <div class="clear"></div>
-
-                    <i class="icon-envelope2"></i> info@canvas.com <span class="middot">&middot;</span> <i class="icon-headphones"></i> +91-11-6541-6369 <span class="middot">&middot;</span> <i class="icon-skype2"></i> CanvasOnSkype
                 </div>
 
             </div>
