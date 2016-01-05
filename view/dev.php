@@ -128,7 +128,7 @@
                 <div class="col-md-4">
                     <div class="feature-box fbox-effect">
                         <div class="fbox-icon">
-                            <a href="http://swd.cridip.com"><i class="icon-line2-globe i-alt"></i></a>
+                            <a href="http://swd.cridip.com/"><i class="icon-line2-globe i-alt"></i></a>
                         </div>
                         <h3>Web</h3>
                         <p>Nous réalisons des sites Web d'exceptions, de manières professionnelles et totalement responsive.</p>
@@ -137,7 +137,7 @@
                 <div class="col-md-4">
                     <div class="feature-box fbox-effect">
                         <div class="fbox-icon">
-                            <a href="index.php?view=event"><i class="icon-ou i-alt"></i></a>
+                            <a href="http://swd.cridip.com/"><i class="icon-link i-alt"></i></a>
                         </div>
                         <h3>Réseau</h3>
                         <p>Grace à notre expertise réseau et infrastructure et ce avec notre partenaire qui est numéro 1 européen dans l'hebergement et la gestion d'infrastructure réseau, nous vous offrons une qualité de réalisations de votre réseau hors norme et auto-gérer.</p>
@@ -146,7 +146,7 @@
                 <div class="col-md-4">
                     <div class="feature-box fbox-effect">
                         <div class="fbox-icon">
-                            <a href="index.php?view=event"><i class="icon-circle-arrow-right i-alt"></i></a>
+                            <a href="http://swd.cridip.com/"><i class="icon-circle-arrow-right i-alt"></i></a>
                         </div>
                         <h3>Support Web</h3>
                         <p>SAS CRIDIP réalise pour vous, des sites web d'exception pour parfaire votre communications.</p>
