@@ -13,7 +13,7 @@ ob_start();
 if($view === 'index'){require "view/index.php";}
 if($view === 'event'){require "view/event.php";}
 if($view === 'conseil'){require "view/conseil.php";}
-if($view === 'coaching'){require "view/coaching.php";}
+if($view === 'coach'){require "view/coaching.php";}
 if($view === 'developpement'){require "view/dev.php";}
 if($view === 'contact'){require "view/contact.php";}
 
