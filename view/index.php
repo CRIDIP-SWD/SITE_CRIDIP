@@ -125,7 +125,7 @@
                         <div class="fbox-icon">
                             <a href="index.php?view=event"><i class="icon-calendar2 i-alt"></i></a>
                         </div>
-                        <h3>&Eacute;vénementielle</h3>
+                        <h3>&Eacute;vénementiel</h3>
                         <p>Nous présentons pour vous et votre structure divers moyen de communications tels que de l’imprimerie, la création et la gestion de séminaire, support web, etc.…</p>
                     </div>
                 </div>
