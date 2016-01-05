@@ -19,7 +19,7 @@
             <div class="swiper-slide dark" style="background-image: url('<?= $constante->getUrl(array(''), false, true) ;?>background/world.jpg');">
                 <div class="container clearfix">
                     <div class="slider-caption slider-caption-right">
-                        <h2 data-caption-animate="fadeInUp">YEAHH !!!!</h2>
+                        <h2 data-caption-animate="fadeInUp">World Map SUBMIT</h2>
                         <p data-caption-animate="fadeInDown" data-caption-delay="200">TEXT 1</p>
                         <p data-caption-animate="fadeInUp" data-caption-delay="500">Text 2</p>
                     </div>
@@ -124,7 +124,7 @@
             <div class="fancy-title title-dotted-border title-center">
                 <h2>
                     <div class="text-rotater" data-separator="|" data-rotate="bounceIn" data-speed="2500">
-                        Nous <span class="t-rotate color">Organisons|Préparons|Administrons|Réalisons</span> vos évènements.
+                        Découvrez toutes nos <span>Offres</span> dans le domaine du <span>développement</span>.
                     </div>
                 </h2>
             </div>
