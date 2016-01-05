@@ -132,7 +132,7 @@
                 <div class="col-md-6">
                     <div class="feature-box fbox-effect">
                         <div class="fbox-icon">
-                            <a href="index.php?view=conseil"><i class="icon-lab2 i-alt"></i></a>
+                            <a href="index.php?view=conseil"><i class="icon-info i-alt"></i></a>
                         </div>
                         <h3>Conseil en entreprise</h3>
                         <p>SAS CRIDIP dispose de sa propre équipe d'expertise et vous accompagnera dans votre projet professionnel.</p>
