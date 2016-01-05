@@ -120,7 +120,19 @@
                 <a class="button button-reveal button-xlarge button-rounded tright" href="index.php?view=contact"><i class="icon-angle-right"></i><span>Contactez-nous</span></a>
             </div>
         </div>
-
+        <div class="container clearfix bottommargin topmargin">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="feature-box fbox-effect">
+                        <div class="fbox-icon">
+                            <a href="index.php?view=event"><i class="icon-circle-arrow-right i-alt"></i></a>
+                        </div>
+                        <h3>Séminaire</h3>
+                        <p>Nous organisons des séminaires sur toutes la france, suivant un protocole très strict, de la préparation à la réalisation, vous n'avez plus qu'à en profiter !</p>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="promo promo-dark promo-full promo-uppercase bottommargin footer-stick">
             <div class="container clearfix">
                 <h3>Appelez-nous aujourd'hui au <span>0899 492 648</span> <br>où écrivez-nous à <span>contact@cridip.com</span></h3>
