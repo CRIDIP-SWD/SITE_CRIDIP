@@ -164,9 +164,9 @@
         <div class="clear"></div>
         <div class="promo promo-dark promo-full promo-uppercase bottommargin footer-stick">
             <div class="container clearfix">
-                <h3>Call us today at <span>+91.22.57412541</span> or Email us at <span>support@canvas.com</span></h3>
-                <span>We strive to provide Our Customers with Top Notch Support to make their Theme Experience Wonderful</span>
-                <a href="#" class="button button-xlarge button-rounded">Start Now</a>
+                <h3>Appelez-nous aujourd'hui au <span>0899 492 648</span> <br>où écrivez-nous à <span>contact@cridip.com</span></h3>
+                <span>Nous nous efforçons de forunir à nos clients tout notre soutien pour mener leurs projets à bien.</span>
+                <a class="button button-reveal button-xlarge button-rounded tright" href="index.php?view=contact"><i class="icon-angle-right"></i><span>Contactez-nous</span></a>
             </div>
         </div>
     </div>
