@@ -137,9 +137,9 @@
 
                     <div class="widget clearfix">
 
-                        <img src="images/footer-widget-logo.png" alt="" class="alignleft" style="margin-top: 8px; padding-right: 18px; border-right: 1px solid #4A4A4A;">
+                        <img src="<?= $constante->getUrl(array('images/'), true, false) ;?>footer-widget-logo.png" alt="" class="alignleft" style="margin-top: 8px; padding-right: 18px; border-right: 1px solid #4A4A4A;">
 
-                        <p>We believe in <strong>Simple</strong>, <strong>Creative</strong> &amp; <strong>Flexible</strong> Design Standards with a Retina &amp; Responsive Approach. Browse the amazing Features this template offers.</p>
+                        <p>Nous vous accompagnons dans vos projets !</p>
 
                         <div class="line" style="margin: 30px 0;"></div>
 
@@ -147,41 +147,29 @@
 
                             <div class="col-md-3 col-xs-6 bottommargin-sm widget_links">
                                 <ul>
-                                    <li><a href="#">Home</a></li>
-                                    <li><a href="#">About</a></li>
-                                    <li><a href="#">FAQs</a></li>
-                                    <li><a href="#">Support</a></li>
+                                    <li><a href="#">Accueil</a></li>
+                                    <li><a href="#">Développement</a></li>
+                                </ul>
+                            </div>
+
+                            <div class="col-md-3 col-xs-6 bottommargin-sm widget_links">
+                                <ul>
+                                    <li><a href="#">Evenementielle</a></li>
                                     <li><a href="#">Contact</a></li>
                                 </ul>
                             </div>
 
                             <div class="col-md-3 col-xs-6 bottommargin-sm widget_links">
                                 <ul>
-                                    <li><a href="#">Shop</a></li>
-                                    <li><a href="#">Portfolio</a></li>
-                                    <li><a href="#">Blog</a></li>
-                                    <li><a href="#">Events</a></li>
-                                    <li><a href="#">Forums</a></li>
+                                    <li><a href="#">Conseil</a></li>
+
                                 </ul>
                             </div>
 
                             <div class="col-md-3 col-xs-6 bottommargin-sm widget_links">
                                 <ul>
-                                    <li><a href="#">Corporate</a></li>
-                                    <li><a href="#">Agency</a></li>
-                                    <li><a href="#">eCommerce</a></li>
-                                    <li><a href="#">Personal</a></li>
-                                    <li><a href="#">One Page</a></li>
-                                </ul>
-                            </div>
+                                    <li><a href="#">Coaching</a></li>
 
-                            <div class="col-md-3 col-xs-6 bottommargin-sm widget_links">
-                                <ul>
-                                    <li><a href="#">Restaurant</a></li>
-                                    <li><a href="#">Wedding</a></li>
-                                    <li><a href="#">App Showcase</a></li>
-                                    <li><a href="#">Magazine</a></li>
-                                    <li><a href="#">Landing Page</a></li>
                                 </ul>
                             </div>
 
@@ -192,24 +180,6 @@
                 </div>
 
                 <div class="col_one_third col_last">
-
-                    <div class="widget clearfix" style="margin-bottom: -20px;">
-
-                        <div class="row">
-
-                            <div class="col-md-6 bottommargin-sm">
-                                <div class="counter counter-small" style="color: #35BBAA;"><span data-from="50" data-to="15065421" data-refresh-interval="80" data-speed="3000" data-comma="true"></span></div>
-                                <h5 class="nobottommargin">Total Downloads</h5>
-                            </div>
-
-                            <div class="col-md-6 bottommargin-sm">
-                                <div class="counter counter-small" style="color: #2CAACA;"><span data-from="100" data-to="18465" data-refresh-interval="50" data-speed="2000" data-comma="true"></span></div>
-                                <h5 class="nobottommargin">Clients</h5>
-                            </div>
-
-                        </div>
-
-                    </div>
 
                     <div class="widget subscribe-widget clearfix">
                         <h5><strong>Subscribe</strong> to Our Newsletter to get Important News, Amazing Offers &amp; Inside Scoops:</h5>
