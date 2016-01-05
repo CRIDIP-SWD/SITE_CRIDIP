@@ -138,6 +138,15 @@
                         <p>Nous organisons des séminaires sur toutes la france, suivant un protocole très strict, de la préparation à la réalisation, vous n'avez plus qu'à en profiter !</p>
                     </div>
                 </div>
+                <div class="col-md-4">
+                    <div class="feature-box fbox-effect">
+                        <div class="fbox-icon">
+                            <a href="index.php?view=event"><i class="icon-circle-arrow-right i-alt"></i></a>
+                        </div>
+                        <h3>Imprimerie</h3>
+                        <p>Grâce à nos différents partenaires dans l'imprimerie, nous pouvons réaliser pour vous, des flyers, cartes de visites, objets publicitaires, etc...</p>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="promo promo-dark promo-full promo-uppercase bottommargin footer-stick">
