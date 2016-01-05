@@ -115,7 +115,7 @@
                 <a class="button button-reveal button-xlarge button-rounded tright" href="index.php?view=contact"><i class="icon-angle-right"></i><span>Contactez-nous</span></a>
             </div>
         </div>
-        <div class="container clearfix">
+        <div class="container clearfix bottommargin-lg">
             <div class="fancy-title title-dotted-border title-center">
                 <h1>Découvrez toutes les <span>offres</span> et <span>services</span> fournis par CRIDIP</h1>
             </div>
