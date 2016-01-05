@@ -109,7 +109,15 @@
 
     <div class="content-wrap">
 
-
+        <div class="container clearfix">
+            <div class="promo promo-border promo-dark promo-full bottommargin">
+                <div class="container clearfix">
+                    <h3>Call us today at <span>+91.22.57412541</span> or Email us at <span>support@canvas.com</span></h3>
+                    <span>We strive to provide Our Customers with Top Notch Support to make their Theme Experience Wonderful</span>
+                    <a class="button button-xlarge button-rounded" href="#">Start Now</a>
+                </div>
+            </div>
+        </div>
 
     </div>
 
