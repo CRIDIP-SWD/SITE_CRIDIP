@@ -33,8 +33,8 @@
                         <div class="fbox-icon">
                             <a href="index.php?view=event"><i class="icon-circle-arrow-right i-alt"></i></a>
                         </div>
-                        <h3>Solution Conseil</h3>
-                        <p>Nos équipes dédiés au conseil d'entreprise, vous permettrons de prendre les bonnes décisions au bon moment.</p>
+                        <h3>Performance</h3>
+                        <p>Les performances apparaissent quand le terrain si prêt alors ensemble nous allons assainir votre terrain.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -42,8 +42,8 @@
                         <div class="fbox-icon">
                             <a href="index.php?view=event"><i class="icon-circle-arrow-right i-alt"></i></a>
                         </div>
-                        <h3>Gestion</h3>
-                        <p>Des questions sur la gestion d'une entreprise, nos équipes répondrons à vos questions.</p>
+                        <h3>Dialogue</h3>
+                        <p>Le coaching est aussi un dialogue, une collaboration, une écoute qualifiée, un conseil averti, une prise de conscience, un ressenti, pour corriger des dysfonctionnements afin de réintégrer l’attitude la mieux adapter aux événements.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -51,8 +51,8 @@
                         <div class="fbox-icon">
                             <a href="index.php?view=event"><i class="icon-circle-arrow-right i-alt"></i></a>
                         </div>
-                        <h3>Qualité RH</h3>
-                        <p>La Relation Humaine est le point d'encrage d'une société, nous vous aidrons à comprendre sons fonctionnement.</p>
+                        <h3>Réalité</h3>
+                        <p>Le coaching vous aidera à créer votre propre réalité, peu importe qui vous êtes et ce que vous faites, vous êtes tous porteur d’un merveilleux projet de vie, optimiser toutes vos capacités.</p>
                     </div>
                 </div>
             </div>
