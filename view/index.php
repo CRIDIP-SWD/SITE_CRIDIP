@@ -115,6 +115,11 @@
                 <a class="button button-reveal button-xlarge button-rounded tright" href="index.php?view=contact"><i class="icon-angle-right"></i><span>Contactez-nous</span></a>
             </div>
         </div>
+        <div class="container clearfix">
+            <div class="fancy-title title-dotted-border title-center">
+                <h1>Centered Title with <span>dotted</span> border</h1>
+            </div>
+        </div>
 
     </div>
 
