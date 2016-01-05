@@ -137,7 +137,7 @@
 
                     <div class="widget clearfix">
 
-                        <img src="<?= $constante->getUrl(array('images/'), true, false) ;?>footer-widget-logo.png" alt="" class="alignleft" style="margin-top: 8px; padding-right: 18px; border-right: 1px solid #4A4A4A;">
+                        <img src="<?= $constante->getUrl(array('images/'), true, false) ;?>logo.png" alt="" class="alignleft" style="margin-top: 8px; padding-right: 18px; border-right: 1px solid #4A4A4A;">
 
                         <p>Nous vous accompagnons dans vos projets !</p>
 
