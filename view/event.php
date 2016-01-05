@@ -121,6 +121,13 @@
             </div>
         </div>
         <div class="container clearfix bottommargin topmargin">
+            <div class="fancy-title title-dotted-border title-center">
+                <h2>
+                    <div class="text-rotater" data-separator="|" data-rotate="bounceIn" data-speed="2500">
+                        Nous <span class="t-rotate color">Organisons|Préparons|Administrons|Réalisons</span> vos évènements.
+                    </div>
+                </h2>
+            </div>
             <div class="row">
                 <div class="col-md-4">
                     <div class="feature-box fbox-effect">
