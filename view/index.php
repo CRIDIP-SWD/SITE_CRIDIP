@@ -139,6 +139,26 @@
                     </div>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="feature-box fbox-effect">
+                        <div class="fbox-icon">
+                            <a href="index.php?view=coaching"><i class="icon-switch i-alt"></i></a>
+                        </div>
+                        <h3>Coaching en entreprise</h3>
+                        <p>Nous vous accompagnons également avec des coachs qui vous seront dédié afin que votre bien-être se reflete dans votre structure.</p>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="feature-box fbox-effect">
+                        <div class="fbox-icon">
+                            <a href="index.php?view=conseil"><i class="icon-line2-globe i-alt"></i></a>
+                        </div>
+                        <h3>Développement</h3>
+                        <p>SAS CRIDIP dispose de sa propre équipe d'expert en developpement Web, Réseau d'infrastructure et de Télécom afin de parfaire votre expérience du web.</p>
+                    </div>
+                </div>
+            </div>
         </div>
 
     </div>
