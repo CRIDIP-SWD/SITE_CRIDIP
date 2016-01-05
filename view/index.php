@@ -1,26 +1,3 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: SWD
- * Date: 04/01/2016
- * Time: 11:24
- */
-?>
-<!-- Page Title
-		============================================= -->
-<section id="page-title" class="page-title-dark">
-
-    <div class="container clearfix">
-        <h1>Page Title Dark</h1>
-        <span>A Short Page Title Tagline</span>
-        <ol class="breadcrumb">
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Shortcodes</a></li>
-            <li class="active">Page Titles</li>
-        </ol>
-    </div>
-
-</section><!-- #page-title end -->
 <section id="slider" class="slider-parallax swiper_wrapper full-screen clearfix">
 
     <div class="swiper-container swiper-parent">

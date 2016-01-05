@@ -1,11 +1,25 @@
+<!-- Page Title-->
+<section id="page-title" class="page-title-dark">
+
+    <div class="container clearfix">
+        <h1>EVENEMENTIEL</h1>
+        <ol class="breadcrumb">
+            <li><a href="#">SAS CRIDIP</a></li>
+            <li class="active">Evenementiel</li>
+        </ol>
+    </div>
+
+</section>
+<!-- #page-title end -->
+
 <section id="slider" class="slider-parallax swiper_wrapper full-screen clearfix">
 
     <div class="swiper-container swiper-parent">
         <div class="swiper-wrapper">
             <div class="swiper-slide dark" style="background-image: url('<?= $constante->getUrl(array('images/'), true, false) ;?>slider/swiper/1.jpg');">
                 <div class="container clearfix">
-                    <div class="slider-caption slider-caption-center">
-                        <h2 data-caption-animate="fadeInUp">BONNE ANNEE 2016</h2>
+                    <div class="slider-caption slider-caption-right">
+                        <h2 data-caption-animate="fadeInUp">SLIDE EVENT 1</h2>
                         <p data-caption-animate="fadeInUp" data-caption-delay="200">Toute l'équipe de CRIDIP vous souhaite une bonne année 2016.</p>
                         <p data-caption-animate="fadeInUp" data-caption-delay="500">La ROADMAP 2016 est de sortie.</p>
                     </div>
@@ -94,3 +108,4 @@
     <a href="#" data-scrollto="#content" data-offset="100" class="dark one-page-arrow"><i class="icon-angle-down infinite animated fadeInDown"></i></a>
 
 </section>
+
