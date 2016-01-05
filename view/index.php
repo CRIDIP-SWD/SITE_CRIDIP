@@ -123,11 +123,19 @@
                 <div class="col-md-6">
                     <div class="feature-box fbox-effect">
                         <div class="fbox-icon">
-                            <a href="#"><i class="icon-screen i-alt"></i></a>
+                            <a href="index.php?view=event"><i class="icon-calendar2 i-alt"></i></a>
                         </div>
                         <h3>&Eacute;vénementielle</h3>
-                        <p>Nous présentons pour vous et votre structure divers moyen de communications tels que de l’imprimerie, la création et la gestion de séminaire, support web, etc.…
-                        </p>
+                        <p>Nous présentons pour vous et votre structure divers moyen de communications tels que de l’imprimerie, la création et la gestion de séminaire, support web, etc.…</p>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="feature-box fbox-effect">
+                        <div class="fbox-icon">
+                            <a href="index.php?view=conseil"><i class="icon-lab2 i-alt"></i></a>
+                        </div>
+                        <h3>Conseil en entreprise</h3>
+                        <p>SAS CRIDIP dispose de sa propre équipe d'expertise et vous accompagnera dans votre projet professionnel.</p>
                     </div>
                 </div>
             </div>
