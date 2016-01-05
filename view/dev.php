@@ -137,7 +137,7 @@
                 <div class="col-md-4">
                     <div class="feature-box fbox-effect">
                         <div class="fbox-icon">
-                            <a href="index.php?view=event"><i class="icon-plurk i-alt"></i></a>
+                            <a href="index.php?view=event"><i class="icon-code-fork i-alt"></i></a>
                         </div>
                         <h3>Réseau</h3>
                         <p>Grâce à nos différents partenaires dans l'imprimerie, nous pouvons réaliser pour vous, des flyers, cartes de visites, objets publicitaires, etc...</p>
