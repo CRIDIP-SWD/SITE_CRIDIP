@@ -120,7 +120,7 @@
                 <a class="button button-reveal button-xlarge button-rounded tright" href="index.php?view=contact"><i class="icon-angle-right"></i><span>Contactez-nous</span></a>
             </div>
         </div>
-        <div class="container clearfix bottommargin topmargin">
+        <div class="container clearfix bottommargin-lg topmargin">
             <div class="fancy-title title-dotted-border title-center">
                 <h2>
                     <div class="text-rotater" data-separator="|" data-rotate="bounceIn" data-speed="2500">
