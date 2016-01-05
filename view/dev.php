@@ -122,11 +122,7 @@
         </div>
         <div class="container clearfix bottommargin-lg topmargin">
             <div class="fancy-title title-dotted-border title-center">
-                <h2>
-                    <div class="text-rotater" data-separator="|" data-rotate="bounceIn" data-speed="2500">
-                        Découvrez toutes nos <span>Offres</span> dans le domaine du <span>développement</span>.
-                    </div>
-                </h2>
+                <h1>Découvrez toutes les <span>offres</span> dans le <span>Développement</span></h1>
             </div>
             <div class="row">
                 <div class="col-md-4">
