@@ -119,6 +119,18 @@
             <div class="fancy-title title-dotted-border title-center">
                 <h1>Découvrez toutes les <span>offres</span> et <span>services</span> fournis par CRIDIP</h1>
             </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="feature-box fbox-effect">
+                        <div class="fbox-icon">
+                            <a href="#"><i class="icon-screen i-alt"></i></a>
+                        </div>
+                        <h3>&Eacute;vénementielle</h3>
+                        <p>Nous présentons pour vous et votre structure divers moyen de communications tels que de l’imprimerie, la création et la gestion de séminaire, support web, etc.…
+                        </p>
+                    </div>
+                </div>
+            </div>
         </div>
 
     </div>
