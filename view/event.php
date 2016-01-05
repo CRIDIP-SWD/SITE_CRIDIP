@@ -20,7 +20,7 @@
                 <div class="container clearfix">
                     <div class="slider-caption slider-caption-right">
                         <h2 data-caption-animate="fadeInUp">SLIDE EVENT 1</h2>
-                        <p data-caption-animate="fadeInUp" data-caption-delay="200">Toute l'équipe de CRIDIP vous souhaite une bonne année 2016.</p>
+                        <p data-caption-animate="fadeInDown" data-caption-delay="200">Toute l'équipe de CRIDIP vous souhaite une bonne année 2016.</p>
                         <p data-caption-animate="fadeInUp" data-caption-delay="500">La ROADMAP 2016 est de sortie.</p>
                     </div>
                 </div>
