@@ -179,7 +179,7 @@
 
                 </div>
 
-                <div class="col_one_third col_last">
+                <!--<div class="col_one_third col_last">
 
                     <div class="widget subscribe-widget clearfix">
                         <h5><strong>Subscribe</strong> to Our Newsletter to get Important News, Amazing Offers &amp; Inside Scoops:</h5>
@@ -209,9 +209,9 @@
                                 }
                             });
                         </script>
-                    </div>
+                    </div>-->
 
-                    <div class="widget clearfix" style="margin-bottom: -20px;">
+                    <!--<div class="widget clearfix" style="margin-bottom: -20px;">
 
                         <div class="row">
 
@@ -232,7 +232,7 @@
 
                         </div>
 
-                    </div>
+                    </div>-->
 
                 </div>
 
@@ -248,12 +248,12 @@
 
                 <div class="col_half">
                     <div class="copyrights-menu copyright-links clearfix">
-                        <a href="#">Home</a>/<a href="#">About</a>/<a href="#">Features</a>/<a href="#">Portfolio</a>/<a href="#">FAQs</a>/<a href="#">Contact</a>
+                        <a href="#">Accueil</a>/<a href="#">Evenementiel</a>/<a href="#">Conseil</a>/<a href="#">Coaching</a>/<a href="#">Developpement</a>/<a href="#">Contact</a>
                     </div>
-                    Copyrights &copy; 2014 All Rights Reserved by Canvas Inc.
+                    Copyrights &copy; 2016 tout droits réservés par SAS CRIDIP.
                 </div>
 
-                <div class="col_half col_last tright">
+                <!--<div class="col_half col_last tright">
                     <div class="fright clearfix">
                         <a href="#" class="social-icon si-small si-borderless nobottommargin si-facebook">
                             <i class="icon-facebook"></i>
@@ -295,7 +295,7 @@
                             <i class="icon-linkedin"></i>
                         </a>
                     </div>
-                </div>
+                </div>-->
 
             </div>
 
